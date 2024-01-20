@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.getmaindiv {
+  background: url("https://nationalbroadband.pk/wp-content/uploads/2016/11/bg-get-nbb.jpg?id=21504");
+}
+.faqsmaindiv {
+  background: url("https://nationalbroadband.pk/wp-content/uploads/2016/11/bg-faqs.jpg");
+}
+.contactmaindiv {
+  background: url("https://nationalbroadband.pk/wp-content/uploads/2016/11/bg-contact-1.jpg");
+}
